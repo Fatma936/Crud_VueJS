@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "fatma benali",
+      "email": "fatmabenali@gmail.com",
+      "password": "admin",
+      "id": 2
+    },
+    {
+      "name": "sirine",
+      "email": "sirine@gmail.com",
+      "password": "azerty",
+      "id": 4
+    },
+    {
+      "name": "saleh",
+      "email": "user02@gmail.com",
+      "password": "user02",
+      "id": 5
+    },
+    {
+      "name": "ali",
+      "email": "user01@gmail.com",
+      "password": "user01",
+      "id": 6
+    },
+    {
+      "name": "user",
+      "email": "usr@gmail.com",
+      "password": "azar",
+      "id": 7
+    }
+  ]
+}
